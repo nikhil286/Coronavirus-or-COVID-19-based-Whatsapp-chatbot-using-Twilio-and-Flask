@@ -7,8 +7,11 @@ Steps to be Followed (for Windows):
 2) Go to Programmable SMS >> Whatsapp. Follow the instructions to connect your whatsapp account with twilio.
 3) Run following commands in cmd-->
         a) cd\Desktop
+        
         b) mkdir Bot  -----> creating Bot folder in Desktop
+        
         c) cd\Bot
+        
         Paste app.py in Bot folder.
         d) python -m venv botvenv    -------> creating python virtual environment named "botvenv"
         e) botvenv\Scripts\activate   ------> activate virtual environment
