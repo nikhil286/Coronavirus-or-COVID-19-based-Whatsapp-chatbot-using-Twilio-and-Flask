@@ -6,17 +6,16 @@ Steps to be Followed (for Windows):
 1) Make an account on Twilio (twilio.com)
 2) Go to Programmable SMS >> Whatsapp. Follow the instructions to connect your whatsapp account with twilio.
 3) Run following commands in cmd-->
+
         a) cd\Desktop
-        
         b) mkdir Bot  -----> creating Bot folder in Desktop
-        
         c) cd\Bot
-        
         Paste app.py in Bot folder.
         d) python -m venv botvenv    -------> creating python virtual environment named "botvenv"
         e) botvenv\Scripts\activate   ------> activate virtual environment
         f) pip install twilio flask requests   --------> installing required libs in our virtual environment.
         g) python app.py  -------> run app.py
+        
         Here, observe the port number in your local IP address.
         
 4) Now, to get URL, download ngrok
