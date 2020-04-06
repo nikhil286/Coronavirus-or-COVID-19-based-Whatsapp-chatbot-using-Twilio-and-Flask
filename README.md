@@ -1,5 +1,6 @@
 # Whatsapp-chatbot-using-Twilio-and-Flask
-A Whatsapp bot that provides corona virus(COVID-19) related information of India
+A Whatsapp bot that provides corona virus(COVID-19) related information of India.
+It accesses https://www.mohfw.gov.in/ to scrap data reagrding COVID19 using Beautiful Soup. 
 
 Steps to be Followed (for Windows):
 
