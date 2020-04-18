@@ -1,7 +1,7 @@
 #Corona Virus/COVID-19 based Whatsapp chatbot using Twilio and Flask
 
 A Whatsapp bot that provides corona virus(COVID-19) related information of India.
-It accesses https://www.mohfw.gov.in/ to scrap data reagrding COVID19 using Beautiful Soup. 
+It accesses https://www.mohfw.gov.in/ to scrap data regarding COVID19 using Beautiful Soup. 
 
 To join My Bot - Send message "join pain-sound" to +1415523-8886 to connect. Then type any state name and send.
 
